@@ -29,13 +29,13 @@ My research focuses on AI security and privacy, and responsible generative AI. I
 - *2025.03*: &nbsp;🎉 One paper on Backdoor Sample Detection was accepted by IEEE Symposium on Security and Privacy (SP) 2025!
 - *2025.03*: &nbsp;🎖 I joined ByteDance as a research intern!
 - *2024.11*: &nbsp;🎉 One paper on Adversarial Example was accepted by AAAI 2026 as an Oral!
-- *2024.07*: &nbsp;🥇 Our work won the Special Prize (only 12 in China) and the First Prize in <a href="http://www.ciscn.cn/" target="_blank">National College Student Information Security Competition</a>.
+- *2024.07*: &nbsp;🥇 Our work won Special Prize (only 12 in China) and First Prize in <a href="http://www.ciscn.cn/" target="_blank">National College Student Information Security Competition</a>.
 - *2023.07*: &nbsp;🥇 Our project was awarded national-level funding through
 <a href="http://gjcxcy.bjtu.edu.cn/Index.aspx" target="_blank">the Undergraduate Innovation and Entrepreneurship Training Program</a>.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/overveiw.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/overview.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Improving Deepfake Detection with Reinforcement Learning-Based Adaptive Data Augmentation](https://arxiv.org/pdf/2511.07051)
@@ -48,16 +48,20 @@ My research focuses on AI security and privacy, and responsible generative AI. I
 </div>
 
 # 🎖 Other Papers
-[JPRO: Automated Multimodal Jailbreaking via Multi-Agent Collaboration Framework](https://arxiv.org/pdf/2511.07315) 
+- **Arxiv** [JPRO: Automated Multimodal Jailbreaking via Multi-Agent Collaboration Framework](https://arxiv.org/pdf/2511.07315)  
+
 **Yuxuan Zhou**, Yang Bai, Kuofeng Gao, Tao Dai, Shu-Tao Xia
 
-[Why does weak-OOD help? A Further Step Towards Understanding Jailbreaking VLMs](https://arxiv.org/pdf/2511.08367)
+- **Arxiv** [Why does weak-OOD help? A Further Step Towards Understanding Jailbreaking VLMs](https://arxiv.org/pdf/2511.08367)   
+
 **Yuxuan Zhou**, Yuzhao Peng1, Yang Bai, Kuofeng Gao, Yihao Zhang, Yechao Zhang, Xun Chen, Tao Yu, Tao Dai, Shu-Tao Xia
 
-**IEEE SP 2025** [Secure Transfer Learning: Training Clean Model Against Backdoor in Pre-trained Encoder and Downstream Dataset](https://arxiv.org/pdf/2504.11990)
+- **IEEE SP 2025** [Secure Transfer Learning: Training Clean Model Against Backdoor in Pre-trained Encoder and Downstream Dataset](https://arxiv.org/pdf/2504.11990)
+
 Yechao Zhang, **Yuxuan Zhou**, Tianyu Li, Minghui Li, Shengshan Hu, Wei Luo, Leo Yu Zhang
 
-**AAAI 2025 oral**[Breaking barriers in physical-world adversarial examples: Improving robustness and transferability via robust feature](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3r8slUEAAAAJ&citation_for_view=3r8slUEAAAAJ:qjMakFHDy7sC)
+- **AAAI 2025 oral**[Breaking barriers in physical-world adversarial examples: Improving robustness and transferability via robust feature](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3r8slUEAAAAJ&citation_for_view=3r8slUEAAAAJ:qjMakFHDy7sC)
+
 Yichen Wang, **Yuxuan Chou**, Ziqi Zhou, Hangtao Zhang, Wei Wan, Shengshan Hu, Minghui Li
 
 
@@ -68,8 +72,8 @@ Yichen Wang, **Yuxuan Chou**, Ziqi Zhou, Hangtao Zhang, Wei Wan, Shengshan Hu, M
 - *2022.01*: Shenyang Aircraft Corporation-Flying Shark Scholarship.
 
 # 📖 Educations
-- *2025.08 - Now *, SIGS, Tsinghua University, Shenzhen, China.
-- *2021.09 - 2025.06 *, Huazhong University of Science and Technology (HUST), Wuhan, China.
+- 2025.08 - Now, SIGS, Tsinghua University, Shenzhen, China.
+- 2021.09 - 2025.06, Huazhong University of Science and Technology (HUST), Wuhan, China.
 
 # 💻 Internships
 - *2025.11 - Now*, [TeleAI](https://www.teleai.com.cn/), China.
