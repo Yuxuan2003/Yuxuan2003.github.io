@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuxuan Zhou"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Ph.D student at SIGS, Tsinghua University"
 repository               : "Yuxuan2003/Yuxuan2003.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   QQ-email         : "1684860039@qq.com"
-  Edu-email        : "zhouyuxuan25@mails.tsinghua.edu.cn"
+  email            : "zhouyuxuan25@mails.tsinghua.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
