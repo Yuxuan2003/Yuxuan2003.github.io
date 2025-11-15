@@ -23,9 +23,11 @@ My research focuses on AI security and privacy, and responsible generative AI. I
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2025.11*: &nbsp;🎉 One paper on Deepfake Detection was accepted by AAAI 2026!
+- *2025.06*: &nbsp;🎊 I got my Bachelor of Engineering degree from Huazhong University of Science and Technology (HUST) and will start my Ph.D. studies in Augest 2025. Thank you to all my advisors and collaborators!
+- *2025.03*: &nbsp;🎉 One paper on Backdoor Sample Detection was accepted by IEEE Symposium on Security and Privacy (SP) 2025!
+- *2025.03*: &nbsp;🎖 I joined ByteDance as a research intern!
+- *2024.11*: &nbsp;🎉 One paper on Adversarial Example was accepted by AAAI 2026 as an Oral!
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
