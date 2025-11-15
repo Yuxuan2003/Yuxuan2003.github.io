@@ -46,15 +46,30 @@ My research focuses on AI security and privacy, and responsible generative AI. I
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 🎖 Other Papers
+[JPRO: Automated Multimodal Jailbreaking via Multi-Agent Collaboration Framework](https://arxiv.org/pdf/2511.07315) 
+**Yuxuan Zhou**, Yang Bai, Kuofeng Gao, Tao Dai, Shu-Tao Xia
+
+[Why does weak-OOD help? A Further Step Towards Understanding Jailbreaking VLMs](https://arxiv.org/pdf/2511.08367)
+**Yuxuan Zhou**, Yuzhao Peng1, Yang Bai, Kuofeng Gao, Yihao Zhang, Yechao Zhang, Xun Chen, Tao Yu, Tao Dai, Shu-Tao Xia
+
+**IEEE SP 2025** [Secure Transfer Learning: Training Clean Model Against Backdoor in Pre-trained Encoder and Downstream Dataset](https://arxiv.org/pdf/2504.11990)
+Yechao Zhang, **Yuxuan Zhou**, Tianyu Li, Minghui Li, Shengshan Hu, Wei Luo, Leo Yu Zhang
+
+**AAAI 2025 oral**[Breaking barriers in physical-world adversarial examples: Improving robustness and transferability via robust feature](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3r8slUEAAAAJ&citation_for_view=3r8slUEAAAAJ:qjMakFHDy7sC)
+Yichen Wang, **Yuxuan Chou**, Ziqi Zhou, Hangtao Zhang, Wei Wan, Shengshan Hu, Minghui Li
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: The 17th National College Student Information Security Competition, Special Prize, First Prize. (First one in HUST)
+- *2024.03*: Qiushi Cup Silver Award. (Only one in the Department)
+- *2023.07*: National University Student Innovation & Entrepreneurship Development Program. (Only one in the Department)
+- *2022.01*: Shenyang Aircraft Corporation-Flying Shark Scholarship.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08 - Now *, SIGS, Tsinghua University, Shenzhen, China.
+- *2021.09 - 2025.06 *, Huazhong University of Science and Technology (HUST), Wuhan, China.
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
