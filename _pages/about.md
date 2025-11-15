@@ -23,6 +23,7 @@ My research focuses on AI security and privacy, and responsible generative AI. I
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎖 I joined <a href="https://zhaoj9014.github.io/people.html" target="_blank">EVOL-Lab</a> at TeleAI as a research intern!
 - *2025.11*: &nbsp;🎉 One paper (as first author) on Deepfake Detection was accepted by AAAI 2026!
 - *2025.06*: &nbsp;🎊 I got my Bachelor of Engineering degree from Huazhong University of Science and Technology (HUST) and will start my Ph.D. studies in Augest 2025. Thank you to all my advisors and collaborators!
 - *2025.03*: &nbsp;🎉 One paper on Backdoor Sample Detection was accepted by IEEE Symposium on Security and Privacy (SP) 2025!
@@ -70,10 +71,6 @@ Yichen Wang, **Yuxuan Chou**, Ziqi Zhou, Hangtao Zhang, Wei Wan, Shengshan Hu, M
 - *2025.08 - Now *, SIGS, Tsinghua University, Shenzhen, China.
 - *2021.09 - 2025.06 *, Huazhong University of Science and Technology (HUST), Wuhan, China.
 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.11 - Now*, [TeleAI](https://www.teleai.com.cn/), China.
+- *2025.03 - 2025.09*, [ByteDance](https://www.bytedance.com/), China.
