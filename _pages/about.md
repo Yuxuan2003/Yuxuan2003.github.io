@@ -28,7 +28,7 @@ My research focuses on AI security and privacy, and responsible generative AI. I
 - *2025.06*: &nbsp;🎊 I got my Bachelor of Engineering degree from Huazhong University of Science and Technology (HUST) and will start my Ph.D. studies in Augest 2025. Thank you to all my advisors and collaborators!
 - *2025.03*: &nbsp;🎉 One paper on Backdoor Sample Detection was accepted by IEEE Symposium on Security and Privacy (SP) 2025!
 - *2025.03*: &nbsp;🎖 I joined ByteDance as a research intern!
-- *2024.11*: &nbsp;🎉 One paper on Adversarial Example was accepted by AAAI 2026 as an Oral!
+- *2024.11*: &nbsp;🎉 One paper on Adversarial Example was accepted by AAAI 2025 as an Oral!
 - *2024.07*: &nbsp;🥇 Our work won Special Prize (only 12 in China) and First Prize in <a href="http://www.ciscn.cn/" target="_blank">National College Student Information Security Competition</a>.
 - *2023.07*: &nbsp;🥇 Our project was awarded national-level funding through
 <a href="http://gjcxcy.bjtu.edu.cn/Index.aspx" target="_blank">the Undergraduate Innovation and Entrepreneurship Training Program</a>.
