@@ -28,22 +28,21 @@ My research focuses on AI security and privacy, and responsible generative AI. I
 - *2025.03*: &nbsp;🎉 One paper on Backdoor Sample Detection was accepted by IEEE Symposium on Security and Privacy (SP) 2025!
 - *2025.03*: &nbsp;🎖 I joined ByteDance as a research intern!
 - *2024.11*: &nbsp;🎉 One paper on Adversarial Example was accepted by AAAI 2026 as an Oral!
-- *2024.07*: &nbsp;🥇 Our work won the Special Prize and the First Prize in
-<a href="http://www.ciscn.cn/" target="_blank">National College Student Information Security Competition</a>.
-
-
+- *2024.07*: &nbsp;🥇 Our work won the Special Prize (only 12 in China) and the First Prize in <a href="http://www.ciscn.cn/" target="_blank">National College Student Information Security Competition</a>.
+- *2023.07*: &nbsp;🥇 Our project was awarded national-level funding through
+<a href="http://gjcxcy.bjtu.edu.cn/Index.aspx" target="_blank">the Undergraduate Innovation and Entrepreneurship Training Program</a>.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/overveiw.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Improving Deepfake Detection with Reinforcement Learning-Based Adaptive Data Augmentation](https://arxiv.org/pdf/2511.07051)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yuxuan Zhou**, Tao Yu, Wen Huang, Yuheng Zhang, Tao Dai, Shu-Tao Xia
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://github.com/Yuxuan2003/CRDA) 
+- Introducing a new RL-Based method to improve deepfake detection from the perspective of reducing the bias in different augmentation strategies.
 </div>
 </div>
 
