@@ -57,7 +57,7 @@ My research focuses on AI security and privacy, and responsible generative AI. I
 - **IEEE SP 2025** [Secure Transfer Learning: Training Clean Model Against Backdoor in Pre-trained Encoder and Downstream Dataset](https://arxiv.org/pdf/2504.11990)  
 Yechao Zhang, **Yuxuan Zhou**, Tianyu Li, Minghui Li, Shengshan Hu, Wei Luo, Leo Yu Zhang
 
-- **AAAI 2025 oral**[Breaking barriers in physical-world adversarial examples: Improving robustness and transferability via robust feature](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3r8slUEAAAAJ&citation_for_view=3r8slUEAAAAJ:qjMakFHDy7sC)  
+- **AAAI 2025 oral** [Breaking barriers in physical-world adversarial examples: Improving robustness and transferability via robust feature](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3r8slUEAAAAJ&citation_for_view=3r8slUEAAAAJ:qjMakFHDy7sC)  
 Yichen Wang, **Yuxuan Chou**, Ziqi Zhou, Hangtao Zhang, Wei Wan, Shengshan Hu, Minghui Li
 
 
