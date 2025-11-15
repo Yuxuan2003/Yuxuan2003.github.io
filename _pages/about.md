@@ -38,7 +38,7 @@ My research focuses on AI security and privacy, and responsible generative AI. I
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/overview.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Improving Deepfake Detection with Reinforcement Learning-Based Adaptive Data Augmentation](https://arxiv.org/pdf/2511.07051)
+[Improving Deepfake Detection with Reinforcement Learning-Based Adaptive Data Augmentation](https://arxiv.org/pdf/2511.07051)     
 
 **Yuxuan Zhou**, Tao Yu, Wen Huang, Yuheng Zhang, Tao Dai, Shu-Tao Xia
 
@@ -49,19 +49,15 @@ My research focuses on AI security and privacy, and responsible generative AI. I
 
 # 🎖 Other Papers
 - **Arxiv** [JPRO: Automated Multimodal Jailbreaking via Multi-Agent Collaboration Framework](https://arxiv.org/pdf/2511.07315)  
-
 **Yuxuan Zhou**, Yang Bai, Kuofeng Gao, Tao Dai, Shu-Tao Xia
 
-- **Arxiv** [Why does weak-OOD help? A Further Step Towards Understanding Jailbreaking VLMs](https://arxiv.org/pdf/2511.08367)   
-
+- **Arxiv** [Why does weak-OOD help? A Further Step Towards Understanding Jailbreaking VLMs](https://arxiv.org/pdf/2511.08367)  
 **Yuxuan Zhou**, Yuzhao Peng1, Yang Bai, Kuofeng Gao, Yihao Zhang, Yechao Zhang, Xun Chen, Tao Yu, Tao Dai, Shu-Tao Xia
 
-- **IEEE SP 2025** [Secure Transfer Learning: Training Clean Model Against Backdoor in Pre-trained Encoder and Downstream Dataset](https://arxiv.org/pdf/2504.11990)
-
+- **IEEE SP 2025** [Secure Transfer Learning: Training Clean Model Against Backdoor in Pre-trained Encoder and Downstream Dataset](https://arxiv.org/pdf/2504.11990)  
 Yechao Zhang, **Yuxuan Zhou**, Tianyu Li, Minghui Li, Shengshan Hu, Wei Luo, Leo Yu Zhang
 
-- **AAAI 2025 oral**[Breaking barriers in physical-world adversarial examples: Improving robustness and transferability via robust feature](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3r8slUEAAAAJ&citation_for_view=3r8slUEAAAAJ:qjMakFHDy7sC)
-
+- **AAAI 2025 oral**[Breaking barriers in physical-world adversarial examples: Improving robustness and transferability via robust feature](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3r8slUEAAAAJ&citation_for_view=3r8slUEAAAAJ:qjMakFHDy7sC)  
 Yichen Wang, **Yuxuan Chou**, Ziqi Zhou, Hangtao Zhang, Wei Wan, Shengshan Hu, Minghui Li
 
 
