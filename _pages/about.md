@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I'm Yuxuan Zhou, a first-year Ph.D. student at the <a href="https://www.tsinghua.edu.cn/" target="_blank">Tsinghua University Shenzhen International Graduate School</a>, advised by Professor <a href="https://www.sigs.tsinghua.edu.cn/xst/main.htm" target="_blank">Shutao Xia</a>. I obtained my Bachelor of Engineering degree in Cybersecurity from <a href="https://www.hust.edu.cn/" target="_blank">Huazhong University of Science and Technology (HUST)</a>  in 2025.
+Hello! I'm Yuxuan Zhou, a first-year Ph.D. student at the <a href="https://www.tsinghua.edu.cn/" target="_blank">Shenzhen International Graduate School, Tsinghua University</a>, advised by Professor <a href="https://www.sigs.tsinghua.edu.cn/xst/main.htm" target="_blank">Shutao Xia</a>. I obtained my Bachelor of Engineering degree in Cybersecurity from <a href="https://www.hust.edu.cn/" target="_blank">Huazhong University of Science and Technology (HUST)</a>  in 2025.
 
 My research focuses on AI security and privacy, and responsible generative AI. I firmly believe in the power of interdisciplinary collaboration and its great potential in driving impactful research outcomes. If you are interested in collaborating on research projects, providing internship opportunities, or engaging in academic exchanges, I would be very much looking forward to hearing from you.
 
