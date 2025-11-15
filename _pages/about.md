@@ -52,7 +52,7 @@ My research focuses on AI security and privacy, and responsible generative AI. I
 **Yuxuan Zhou**, Yang Bai, Kuofeng Gao, Tao Dai, Shu-Tao Xia
 
 - **Arxiv** [Why does weak-OOD help? A Further Step Towards Understanding Jailbreaking VLMs](https://arxiv.org/pdf/2511.08367)  
-**Yuxuan Zhou**, Yuzhao Peng1, Yang Bai, Kuofeng Gao, Yihao Zhang, Yechao Zhang, Xun Chen, Tao Yu, Tao Dai, Shu-Tao Xia
+**Yuxuan Zhou**, Yuzhao Peng, Yang Bai, Kuofeng Gao, Yihao Zhang, Yechao Zhang, Xun Chen, Tao Yu, Tao Dai, Shu-Tao Xia
 
 - **IEEE SP 2025** [Secure Transfer Learning: Training Clean Model Against Backdoor in Pre-trained Encoder and Downstream Dataset](https://arxiv.org/pdf/2504.11990)  
 Yechao Zhang, **Yuxuan Zhou**, Tianyu Li, Minghui Li, Shengshan Hu, Wei Luo, Leo Yu Zhang
