@@ -19,7 +19,7 @@ redirect_from:
 
 Hello! I'm Yuxuan Zhou (周愈轩), a second-year Ph.D. student at the <a href="https://www.sigs.tsinghua.edu.cn/" target="_blank">Shenzhen International Graduate School, Tsinghua University</a>, advised by Professor <a href="https://scholar.google.com/citations?user=koAXTXgAAAAJ&hl=zh-CN" target="_blank">Shu-Tao Xia</a> and Professor <a href="https://scholar.google.com/citations?user=MqJNdaAAAAAJ&hl=zh-CN" target="_blank">Tao Dai</a>. I received my B.Eng. in Cybersecurity (Qiming Honor Class) from <a href="https://www.hust.edu.cn/" target="_blank">Huazhong University of Science and Technology</a> in 2025.
 
-**My research focuses on the safety and alignment of foundation models, and the detection of AI-generated content.** Reinforcement learning runs through both lines — as the way to align models, and as the way to train detectors that generalize.
+**My research focuses on the safety and alignment of foundation models, and the detection of AI-generated content.** I believe both will matter for a long time to come. Reinforcement learning runs through both lines — as the way to align models, and as the way to train detectors that generalize.
 
 I have worked on these problems at <a href="https://www.bytedance.com/" target="_blank">ByteDance</a> and <a href="https://hunyuan.tencent.com/" target="_blank">Tencent Hunyuan</a>. I'm always happy to talk about research, collaborations, or internship opportunities — feel free to reach out.
 
