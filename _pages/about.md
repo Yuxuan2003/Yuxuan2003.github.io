@@ -31,7 +31,7 @@ I have worked on these problems at <a href="https://www.bytedance.com/" target="
 
 **Safety & Alignment of Foundation Models.** As models gain tools and autonomy, the cost of misalignment grows with them. I study how alignment breaks under adversarial pressure, and how to repair it without sacrificing capability.
 
-**AI-Generated Content Detection.** Detectors that hold up against unseen forgeries. I lead a team working with <a href="https://www.km-e.cn/imagedetection" target="_blank">KME</a> on a deployed platform for AIGC, deepfake, tampering and audio forgery detection, serving insurance and forensic clients.
+**AI-Generated Content Detection.** Detectors that hold up against unseen forgeries in the real world. To close the gap between benchmark and deployment, we use generative models to synthesize training data — covering forgery types and corruptions absent from public datasets — so that detectors learn artifacts that transfer rather than dataset-specific shortcuts. I lead a team working with <a href="https://www.km-e.cn/imagedetection" target="_blank">KME</a> on a deployed platform for AIGC, deepfake, tampering and audio forgery detection, serving insurance and forensic clients.
 
 # 🔥 News
 - *2026.08*: &nbsp;🎉 Four papers were accepted by **EMNLP 2026** (2 Main, 2 Findings), including one in the Main Conference as first author!
