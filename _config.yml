@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuxuan Zhou"
-description              : "Ph.D student at SIGS, Tsinghua University"
+description              : "Ph.D. student at Tsinghua SIGS. Safety and alignment of foundation models, AI-generated content detection."
 repository               : "Yuxuan2003/Yuxuan2003.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuxuan Zhou"
   avatar           : "images/selfpic.png"
-  bio              : "Tsinghua University"
-  location         : "ShenZhen, China"
+  bio              : "Trustworthy generative AI · RL post-training"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=3r8slUEAAAAJ"
   QQ-email         : "1684860039@qq.com"
   email            : "zhouyuxuan25@mails.tsinghua.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Yuxuan2003"
   google_plus      :
   keybase          :
   instagram        :
