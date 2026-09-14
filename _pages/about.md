@@ -78,7 +78,7 @@ Ruiqi Liu, Yi Han, Boyi Sun, Houxin He, **Yuxuan Zhou**, Yan Wang
 Tao Yu, Zhengbo Zhang, Zhiheng Lyu, Junhao Gong, Hongzhu Yi, Xinming Wang, **Yuxuan Zhou**, Jiabing Yang, Ping Nie, Yan Huang, Wenhu Chen
 
 # 💻 Experience
-- *2026.06 - Now*, <a href="https://hunyuan.tencent.com/" target="_blank">**Tencent Hunyuan**</a>, Foundation Model Department, China — foundation model safety and alignment.
+- *2026.06 - 2026.08*, <a href="https://hunyuan.tencent.com/" target="_blank">**Tencent Hunyuan**</a>, Foundation Model Department, China — foundation model safety and alignment.
 - *2025 - 2026*, <a href="https://www.bytedance.com/" target="_blank">**ByteDance**</a>, Flow Security, China — mentored by <a href="https://scholar.google.com/citations?user=wBH_Q1gAAAAJ&hl=zh-CN" target="_blank">Yang Bai</a>.
 
 # 📖 Education
